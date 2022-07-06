@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/ts-npm-package-boilerplate/main/.github/images/favicon512x512-npm.png" align="center" alt=":package: ts-npm-package-boilerplate" />
+
  <h2 align="center">:package: xstate-machine-webrtc</h2>
 
 <p align="center"><strong>WebRTC XState Machine Implementation</strong>✨</p>
@@ -13,6 +13,11 @@
     <br />
     <br />
   </p>
+
+# WebRTC Protocol
+
+Source: [https://swimlanes.io/u/verzeXJwO](https://swimlanes.io/u/verzeXJwO)
+![https://swimlanes.io/u/verzeXJwO](./docs/webRTC-protocol.png)
 
 # Getting started
 

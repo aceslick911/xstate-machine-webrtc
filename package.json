@@ -1,6 +1,6 @@
 {
   "name": "xstate-machine-webrtc",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Teusable XState WebRTC Statechart Implementation",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hebertcisco/ts-npm-package-boilerplate.git"
+    "url": "git+https://github.com/aceslick911/xstate-machine-webrtc.git"
   },
   "keywords": [
     "boilerplate",
@@ -25,9 +25,9 @@
   "author": "Hebert Cisco",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hebertcisco/ts-npm-package-boilerplate/issues"
+    "url": "https://github.com/aceslick911/xstate-machine-webrtc/issues"
   },
-  "homepage": "https://github.com/hebertcisco/ts-npm-package-boilerplate#readme",
+  "homepage": "https://github.com/aceslick911/xstate-machine-webrtc#readme",
   "devDependencies": {
     "@types/jest": "28.1.1",
     "@types/js-base64": "^3.3.1",

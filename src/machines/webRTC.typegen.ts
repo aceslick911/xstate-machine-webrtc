@@ -53,8 +53,21 @@ export interface Typegen0 {
     messageHandler: 'done.invoke.messageHandler';
   };
   missingImplementations: {
-    actions: never;
-    services: 'sendFile' | 'receiveFile';
+    actions:
+      | 'alertICE'
+      | 'updateICECandidate'
+      | 'setPeerConnection'
+      | 'setChannelInstance'
+      | 'setLocalDescriptor'
+      | 'setClientAnswer';
+    services:
+      | 'RTCPeerConnection'
+      | 'dataChannel'
+      | 'createOffer'
+      | 'checkAnswer'
+      | 'messageHandler'
+      | 'sendFile'
+      | 'receiveFile';
     guards: never;
     delays: never;
   };

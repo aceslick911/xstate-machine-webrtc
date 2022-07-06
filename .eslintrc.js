@@ -21,6 +21,7 @@ module.exports = {
     'react/prop-types': 0,
     '@typescript-eslint/ban-types': 0,
     '@typescript-eslint/no-unused-vars': 0,
+    '@typescript-eslint/no-empty-function': 0,
   },
   settings: {
     react: {

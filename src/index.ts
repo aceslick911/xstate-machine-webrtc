@@ -1,3 +1,3 @@
-import { ConnectionMachine } from './machines/connection';
+import { ConnectionMachine } from './machines/webRTC';
 
 export default ConnectionMachine;

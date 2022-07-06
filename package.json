@@ -1,6 +1,6 @@
 {
   "name": "xstate-machine-webrtc",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Teusable XState WebRTC Statechart Implementation",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

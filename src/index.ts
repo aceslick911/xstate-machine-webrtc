@@ -1,3 +1,5 @@
-import { ConnectionMachine } from './machines/webRTC';
+import { WebRTCMachine } from './machines/webRTC.events';
 
-export default ConnectionMachine;
+export { WebRTCMachine };
+
+export default WebRTCMachine;
